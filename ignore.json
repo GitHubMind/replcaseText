@@ -1,0 +1,8 @@
+[
+  {
+    "regAddress": "src/*"
+  },
+  {
+    "regAddress": "*.js"
+  }
+]

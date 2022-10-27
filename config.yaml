@@ -1,0 +1,7 @@
+ transale_addres: ./tranlate.txt
+# 上面这个为空就不会读取他
+ transale_addres_json: ./test.json
+ not_ignore_address: ./ignore.json
+ language : en
+ catalog_address:
+  ./1
